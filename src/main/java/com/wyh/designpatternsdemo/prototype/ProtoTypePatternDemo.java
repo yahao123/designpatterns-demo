@@ -1,4 +1,4 @@
-package com.wyh.designpatternsdemo;
+package com.wyh.designpatternsdemo.prototype;
 
 /**
  * 原型模式
